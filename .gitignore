@@ -1,0 +1,9 @@
+*.iml
+.*
+!.gitignore
+
+
+/local.properties
+/build
+/captures
+.externalNativeBuild
